@@ -5,7 +5,7 @@
 2. [List of Programs](#list-of-programs)
 3. [How to Run the Code](#how-to-run-the-code)
 4. [Outputs](#outputs)
-5. [Submission Details](#submission-details)
+
 
 ---
 
@@ -41,3 +41,8 @@ This project contains 15 programs that solve various computational problems, inc
    ```bash
    git clone https://github.com/your-username/repository-name.git
    cd repository-name
+
+
+## Output
+
+[Click here to view the Solved Problems and Output Screenshots](https://docs.google.com/document/d/1HzEeUeh2VvGtpJZZmKuDxaY7_xPGjqNbr5GiaHvw-8g/edit?usp=sharing)
